@@ -10,6 +10,7 @@
     </parent>
     <groupId>com.rushi</groupId>
     <artifactId>product-service</artifactId>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>product-service</name>
     <description>product-service</description>
